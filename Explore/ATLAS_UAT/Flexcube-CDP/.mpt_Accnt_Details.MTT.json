@@ -1,0 +1,107 @@
+{
+  "objectInfo" : {
+    "id" : "3lmXBMTedUjcBeG9u44FgN",
+    "name" : "mpt_Accnt_Details",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0101C60Z0000000000H1"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "3OCXKrsIrKeikioJ6VtL2m",
+    "name" : "oracle_ATLAS_CDP_INTGRTN",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0101C60B00000000001N"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Connection to read/write to tables for CDP APPS project",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "bQeW1hziD8peJKSSnzpgQX",
+    "name" : "vmohswthb037",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0101C625000000000007"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "8W0Knbuvc99iyhMEHqqCoK",
+    "name" : "mp_Accnt_Details",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0101C6170000000000IX"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/ATLAS_UAT/Flexcube-CDP"
+  }, {
+    "id" : "2UoLaWMyDH5d8YmAM6RKUL",
+    "name" : "oracle_FCUBE_FCUBSWBRPT",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0101C60B00000000001B"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "This connection name kept in synch with PROD but this is referring to test Felxcube reporting data",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}

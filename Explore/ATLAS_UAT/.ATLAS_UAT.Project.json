@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "5bJJfuKlUfaeW3tJ77tcCc",
+    "name" : "ATLAS_UAT",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "UAT environment of ATLAS - Data integration from Flexcube to Salesforce.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

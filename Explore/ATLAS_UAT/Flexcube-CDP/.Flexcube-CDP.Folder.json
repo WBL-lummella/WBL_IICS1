@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9L9CIJmak77jhY7H93E4g2",
+    "name" : "Flexcube-CDP",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Tasks to load the data from Flexcube to CDP",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
